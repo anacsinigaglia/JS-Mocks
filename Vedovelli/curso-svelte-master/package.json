@@ -7,7 +7,7 @@
     "build": "yarn build:tailwind && rollup -c",
     "dev": "yarn watch:tailwind && rollup -c -w",
     "start": "sirv public",
-    "test": "jest src --watchAll"
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
