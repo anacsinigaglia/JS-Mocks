@@ -1,4 +1,4 @@
-const { printTitle } = require('./util');
+const { printTitle } = require('./Estudos/Academind/util');
 
 const button = document.querySelector('button');
 
